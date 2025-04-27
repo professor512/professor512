@@ -17,24 +17,24 @@
 ## 🛠️ Skills & Technologies
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Frameworks / Libraries:**  
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
