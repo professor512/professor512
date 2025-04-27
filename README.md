@@ -1,56 +1,62 @@
-<h1 align="center">👋 Hello, I'm professor512!</h1>
+<h1 align="center">Hi, I'm Professor512</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Open-Source%20Enthusiast;Lifelong%20Learner;Tech%20Explorer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Open+Source+Contributor;Lifelong+Learner;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 💻 **Software Developer**: Crafting innovative solutions and exploring emerging technologies.
-- 📚 **Lifelong Learner**: Continuously learning and leveling up my skills.
-- 🌟 **Open Source Advocate**: Passionate about community-driven development.
-
----
-
-## 🔧 Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- 🔭 Software Developer focused on delivering innovative solutions.
+- 📚 Lifelong learner passionate about new technologies and best practices.
+- 🤝 Open-source contributor, firm believer in collaboration and community.
+- 🚀 Always exploring ways to write cleaner, more efficient code.
 
 ---
 
-## 🌱 Current Interests
+## 🛠️ Skills & Technologies
 
-- 🌐 Web Development
-- 🤖 AI & Machine Learning
-- 📱 Mobile App Development
-- ☁️ DevOps & Cloud Computing
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+
+**Frameworks / Libraries:**  
+![React](https://img.shields.io/badge/-React-000?&logo=React) 
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django) 
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ---
 
-## 📈 GitHub Stats
+## 🌍 Current Focus Areas
+
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Mobile App Development
+- DevOps, Cloud Infrastructure, and CI/CD
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=professor512&show_icons=true&theme=radical" alt="professor512's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=professor512&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professor512&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=professor512&theme=transparent&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=professor512&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </p>
 
 ---
 
-## 🔗 Let's Connect
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:professor512@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -60,4 +66,6 @@
 
 ---
 
-<p align="center">Thanks for visiting my profile! 🚀 Feel free to explore my repositories and reach out if you'd like to collaborate. 😊</p>
+<p align="center">
+  Thank you for visiting my profile!  
+</p>
