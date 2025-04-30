@@ -55,8 +55,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=professor512&theme=transparent&show_icons=true&card_height=200" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=professor512&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_height=200" alt="GitHub Streak" />
-
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=professor512&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_height=200" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
